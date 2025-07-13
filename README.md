@@ -1,4 +1,5 @@
-# Traffic Accident Analysis Project
+<h1 align='center'> Traffic Accident Analysis Project </h1>
+
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)
 ![pandas](https://img.shields.io/badge/pandas-Data%20Analysis-yellow.svg)
